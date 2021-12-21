@@ -1,4 +1,5 @@
-# [![](./assets/pricehaxESP32.png)]
+# ![](./assets/pricehaxESP32.png)
+
 
 # PricehaxESP32
 
